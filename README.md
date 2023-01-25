@@ -1,4 +1,3 @@
-# SumitKDSarkar/divergent-quiet-5144
 # Netflix-Clone
 
 ## Tech Stack
