@@ -23,7 +23,7 @@ This is  an OTT platform that provides TV and Movie content. It is a clone of Ne
 ## NUMBER  -   +201030093285
 ## FACEBOOK-   AHMEDZEKO1O
 ## DM      -   @ZEKO_EG
-## CH      -   @GOERMASR
+## CH      -   @GOKERMASR
 
 
 ## THANK YOU ❤️
